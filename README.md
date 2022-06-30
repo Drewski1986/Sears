@@ -1,1 +1,3 @@
-# Sears
+# An Analysis of Kickstarter Campaigns
+
+This report contains thousands of different KickStarter projects over various different fields in numerous countries.  For this project we've focused on successful and unsuccessful Kickstarter plays within the US and Great Britain.  Our friend Louise is very interested in theater and by using some of our findings she should hopefully have a better chance of success raising money than if she went into it blind.  Although some campaigns were more successful than others, Louise should take note of a couple data point we've discovered thanks to our charts and graphs.
