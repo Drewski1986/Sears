@@ -10,6 +10,7 @@ One analysis we did was a line chart to see if we could find out if a successful
 
 A second analysis we did was a line chart to see if we could find a correlation between outcomes based on the amount of money one hoped to raise.  We created a line chart using the percentage of each outcome from our excel spreadsheet [kickstarter analysis](https://github.com/DrewSears11/repo-kickstarter-analysis/blob/main/Kickstarter%20Analysis.zip) The biggest challenge for me for this one was using the COUNTSIF function in Excel to find the total number of successful, failed, and cancelled plays. It took a lot of time and detail to ensure I was drawing the right data from the main Kickstarter tab to get the data I wanted.  Once the first line of code was correct it was all downhill from there.  As you can see in the line graph below we can conclude a fairly obvious statement about this correlation.
 
+![Outcomes Based on Goals](https://github.com/DrewSears11/repo-kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 # Results
